@@ -22,9 +22,9 @@ I am a Software Engineer who specializes in Backend Development with a great ent
 **Here's a quick summary about me**:
 
 - 💡 Pronoun: He/Him.
-- 💡 Fun facts: I have built and I am building some amazing web application likeHBnB- a prototype of the famous AirBnB using Python, Basketball Academy and several other small projects. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
+- 💡 Fun facts: I have built and I am building some amazing web application like HBnB- a prototype of the famous AirBnB using Python, Basketball Academy using Javascript and several other small projects. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
 - 🌱 I’m a Backend Software Engineering graduate at ALX Africa. A study which was rendered by the Holberton School, California where I built several client-side and server-side web projects with frameworks like Flask and Expressjs  
-- 😊 I’m looking for opportuniy working as junior developer, open source projects, internships and startup partnerships.
+- 😊 I’m looking for opportunity working as junior developer, open source projects, internships and startup partnerships.
 - 💼 Job interests: Software development, Technical Writing, Community Management, Leadership, Business/Marketing Software.
 - 📫 You can contact me via Instagram: [@auntyemman](www.instagram.com/auntyemman/) , email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
 
