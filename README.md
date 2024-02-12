@@ -24,9 +24,9 @@ I am a Software Engineer who specializes in Backend Development with a great ent
 - 💡 Pronoun: He/Him.
 - 💡 Fun facts: I have built and I am building some amazing web application like Hunter- a real estate project, HBnB- a prototype of the famous AirBnB using Python, Basketball Academy using Javascript and several other small projects. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
 - 🌱 I’m a Backend Software Engineering graduate at ALX Africa. A study which was rendered by the Holberton School, California where I built several client-side and server-side web projects with frameworks like Flask and Expressjs  
-- 😊 I’m looking for opportunity working as junior developer, open source projects, internships and startup partnerships.
+- 😊 I’m looking for opportunity working as Mid-level/Senior Backend developer, open source projects and startup partnerships.
 - 💼 Job interests: Software development, Technical Writing, Community Management, Leadership, Business/Marketing Software.
-- 📫 You can contact me via Instagram: [@auntyemman](www.instagram.com/auntyemman/) , email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
+- 📫 You can contact me via email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
 
 
 ---
@@ -38,8 +38,8 @@ I am a Software Engineer who specializes in Backend Development with a great ent
 <div align="center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23E34F26.svg?style=for-the-badge&logo=redis5&logoColor=white)
+  ![AWS](https://img.shields.io/badge/aws-%231572B6.svg?style=for-the-badge&logo=aws&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![ExpressJS](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
   ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -50,7 +50,7 @@ I am a Software Engineer who specializes in Backend Development with a great ent
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/Mongodb-D83B01?style=for-the-badge&logo=mongodb&logoColor=white)
   ![API](https://img.shields.io/badge/api%20os-000000?style=for-the-badge&logo=api&logoColor=F0F0F0)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=nginx&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-3DDC84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
