@@ -52,8 +52,8 @@ I am a Software Engineer who specializes in Backend Development with a great ent
   ![Typescript](https://img.shields.io/badge/typescript-F7C922?style=for-the-badge&logo=typescript&logoColor=blue)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/Mongodb-D83B01?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql%20os-000000?style=for-the-badge&logo=postgresql&logoColor=F0F0F0)
-  ![Nginx](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=F0F0F0)
+  ![Nginx](https://img.shields.io/badge/nginx-0078D6?style=for-the-badge&logo=nginx&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-3DDC84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
