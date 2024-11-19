@@ -17,15 +17,15 @@
   Hello and Welcome to my profile! 👋🏾
 </h1>
 
-I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express) and Flask(Python). I can also work with Typescript and C programming languages. I can use both SQL(MySQL) and NoSQL(MongoDB).
+I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express and Nestjs) and Python(Django). I can also work with C programming languages. I use both SQL and NoSQL(MongoDB).
 
 **Here's a quick summary about me**:
 
 - 💡 Pronoun: He/Him.
-- 💡 Fun facts: I have built and I am building some amazing web application like Hunter- a real estate project, HBnB- a prototype of the famous AirBnB using Python, Basketball Academy using Javascript and several other small projects. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
+- 💡 Fun facts: I have built and I am building some amazing web applications. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
 - 🌱 I’m a Backend Software Engineering graduate at ALX Africa. A study which was rendered by the Holberton School, California where I built several client-side and server-side web projects with frameworks like Flask and Expressjs  
-- 😊 I’m looking for opportunity working as Mid-level/Senior Backend developer, open source projects and startup partnerships.
-- 💼 Job interests: Software development, Technical Writing, Community Management, Leadership, Business/Marketing Software.
+- 😊 I’m looking for opportunity to work as Mid-level/Senior Backend developer, open source projects and startup partnerships.
+- 💼 Job interests: Software development.
 - 📫 You can contact me via email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
 
 
@@ -36,8 +36,11 @@ I am a Software Engineer who specializes in Backend Development with a great ent
 </h1>
  
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+  ![Nestjs](https://img.shields.io/badge/nestjs-3670A0?style=for-the-badge&logo=nestjs&logoColor=red)
+  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-3670A0?style=for-the-badge&logo=rabbitmq&logoColor=orange)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=blue)
+  ![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=blue)
   ![Redis](https://img.shields.io/badge/redis-%23E34F26.svg?style=for-the-badge&logo=redis5&logoColor=white)
   ![AWS](https://img.shields.io/badge/aws-%231572B6.svg?style=for-the-badge&logo=aws&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,11 +48,11 @@ I am a Software Engineer who specializes in Backend Development with a great ent
   ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/typescript-F7C922?style=for-the-badge&logo=typescript&logoColor=050036)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+  ![Typescript](https://img.shields.io/badge/typescript-F7C922?style=for-the-badge&logo=typescript&logoColor=blue)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/Mongodb-D83B01?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![API](https://img.shields.io/badge/api%20os-000000?style=for-the-badge&logo=api&logoColor=F0F0F0)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql%20os-000000?style=for-the-badge&logo=postgresql&logoColor=F0F0F0)
   ![Nginx](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=nginx&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-3DDC84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
