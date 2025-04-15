@@ -17,7 +17,7 @@
   Hello and Welcome to my profile! 👋🏾
 </h1>
 
-I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express and Nestjs) and Python(Django). I use both SQL(PostgreSQL and MySQL and NoSQL(MongoDB).
+I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express and Nestjs) and Python(Django). I use both SQL(PostgreSQL and MySQL) and NoSQL(MongoDB).
 
 **Here's a quick summary about me**:
 
