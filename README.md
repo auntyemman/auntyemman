@@ -17,13 +17,12 @@
   Hello and Welcome to my profile! 👋🏾
 </h1>
 
-I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express and Nestjs) and Python(Django). I can also work with C programming languages. I use both SQL and NoSQL(MongoDB).
+I am a Software Engineer who specializes in Backend Development with a great enthusiasm in building secure web applications with Nodejs(Express and Nestjs) and Python(Django). I use both SQL(PostgreSQL and MySQL and NoSQL(MongoDB).
 
 **Here's a quick summary about me**:
 
 - 💡 Pronoun: He/Him.
-- 💡 Fun facts: I have built and I am building some amazing web applications. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
-- 🌱 I’m a Backend Software Engineering graduate at ALX Africa. A study which was rendered by the Holberton School, California where I built several client-side and server-side web projects with frameworks like Flask and Expressjs  
+- 💡 Fun facts: I have built and I am building some amazing web APIs thats a secure and scalable. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
 - 😊 I’m looking for opportunity to work as Mid-level/Senior Backend developer, open source projects and startup partnerships.
 - 💼 Job interests: Software development.
 - 📫 You can contact me via email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
