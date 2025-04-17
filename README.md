@@ -23,7 +23,7 @@ I am a Software Engineer who specializes in Backend Development with a great ent
 
 - 💡 Pronoun: He/Him.
 - 💡 Fun facts: I have built and I am building some amazing web APIs thats a secure and scalable. When I am free, I love seeing the beautiful sight of nature while listening to some great music.
-- 😊 I’m looking for opportunity to work as Mid-level/Senior Backend developer, open source projects and startup partnerships.
+- 😊 I’m looking for an opportunity to work as a Senior Backend developer in a high-end engineering team, open source projects and startup partnerships.
 - 💼 Job interests: Software development.
 - 📫 You can contact me via email: EAAdepoju@gmail.com or LinkedIn: [Adedayo Adepoju](https://www.linkedin.com/in/auntyemman)
 
